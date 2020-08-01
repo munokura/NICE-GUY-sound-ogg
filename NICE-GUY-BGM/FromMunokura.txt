@@ -1,0 +1,266 @@
+▼このファイルについて
+NICE☆GUY氏がサイト「あしなが☆おにいさん」で配布していた（現在閉鎖）midiファイルにループ処理を施し、oggに変換したものです。
+
+▼オリジナル配布元
+http://nicegay.jp/
+※閉鎖
+
+
+▼利用規約
+マテリアル・コモンズ・ブルー・ライセンス
+https://materialcommons.tk/mtcm-b-summary/
+
+
+▼表示クレジット
+編集: fungamemake.com (著作者:NICE☆GUY)
+
+
+▼ファイル名と曲名
+基本的にフォルダで分けてありますが、ファイル名の後ろに'_l'がついているものはループ処理されています。
+基本的に、ジングル以外はループしています。
+
+フォルダで、NICE☆GUY氏の分類を引き継いでいます。
+ba - 戦闘系(48)
+es - イベント・シーン(33)
+ji - ジングル・ファンファーレ(14)
+sd - ステージ・ダンジョン(117)
+td - 街・日常(15)
+
+
+ファイル名                  曲名
+ba
+ASNG_AcrossStreetCrossOneHeart_Introless - Across the Street, Cross One's Heart -introless-
+ASNG_AcrossStreetCrossOneHeart - Across the Street, Cross One's Heart
+ASNG_ArgueSptuned - Argue -sptuned-
+ASNG_Argue - Argue
+ASNG_BloodyTusksMuddyClaws_Introless - Bloody tusks, Muddy claws -introless-
+ASNG_BloodyTusksMuddyClaws - Bloody tusks, Muddy claws
+ASNG_Bovverboy - Bovverboy
+ASNG_DamonHate_Introless - Damon's Hate -introless-
+ASNG_DamonHate - Damon's Hate
+ASNG_Entrust - Entrust
+ASNG_GeneralHurricane - General Hurricane
+ASNG_LikeJade_Introless - Like a Jade -introless-
+ASNG_LikeJade - Like a Jade
+ASNG_Metamorphose - Metamorphose
+ASNG_ROUTINEWORK_Introless - ROUTINEWORK -introless-
+ASNG_ROUTINEWORK - ROUTINEWORK
+ASNG_SCAPEGOAT - SCAPEGOAT
+ASNG_STEPLADDER - STEPLADDER
+ASNG_TakeNoPrisoner_Introless - Take no Prisoner -introless-
+ASNG_TakeNoPrisoner - Take no Prisoner
+ASNG_InSmallPalmThatClutchesBack_Introless1 - 握り返す小さな掌に -introless1-
+ASNG_InSmallPalmThatClutchesBack_Introless2 - 握り返す小さな掌に -introless2-
+ASNG_InSmallPalmThatClutchesBack - 握り返す小さな掌に
+ASNG_HeWhoDefeatsYouWillNotBeSword_Introless - 君を破りしは剣に非ず -introless-
+ASNG_HeWhoDefeatsYouWillNotBeSword - 君を破りしは剣に非ず
+ASNG_RighteousnessAnguishConvictionAndAnguish - 正義煩悶信念苦悩
+ASNG_FerventHypocriticalPropaganda_Introless - 熱烈偽善プロパガンダ -introless-
+ASNG_FerventHypocriticalPropaganda - 熱烈偽善プロパガンダ
+ASNG_LoomingWingsOfAwe_Introless - 迫る迫る畏怖の翼 -introless-
+ASNG_LoomingWingsOfAwe - 迫る迫る畏怖の翼
+ASNG_CatharsisOfAllegoricalWindInstrument_Introless - 諷意風琴カタルシス -introless-
+ASNG_SatanicWindTurbineCatharsisSptuned - 諷意風琴カタルシス -sptuned-
+ASNG_CatharsisOfAllegoricalWindInstrument - 諷意風琴カタルシス
+ASNG_FourWings_Intropat2 - Four Wings - 少年と、竜 -intropat2-
+ASNG_FourWings - Four Wings - 少年と、竜
+ASNG_GraySkyPlay_Intropat2 - Gray Sky Play - 寒空の下、彼らは -intropat2-
+ASNG_GraySkyPlay - Gray Sky Play - 寒空の下、彼らは
+ASNG_MaterialEdgeMoreSharpen_Intropat2 - Material Edge more Sharpen - より鋭く、より強く -intropat2-
+ASNG_MaterialEdgeMoreSharpen - Material Edge more Sharpen - より鋭く、より強く
+ASNG_ORIGAMICyclone - ORIGAMI Cyclone - 見切れたッ！
+ASNG_ShakeoffRevelationOf_Intropat2 - Shakeoff A revelation of - 叛逆のカナリヤ -intropat2-
+ASNG_ShakeoffRevelationOf - Shakeoff A revelation of - 叛逆のカナリヤ
+ASNG_StrikeLight_Intropat2 - Strike the Light - 熱く冷ややかな一条の光 -intropat2-
+ASNG_StrikeLight - Strike the Light - 熱く冷ややかな一条の光
+ASNG_ButterflyStorm_Intropat2 - The Butterfly's Storm - とある揚羽蝶の夢 -intropat2-
+ASNG_ButterflyStorm - The Butterfly's Storm - とある揚羽蝶の夢
+ASNG_TwoHandsStonesAndTower_Intropat2 - Two hands, Stones, And the tower - 築くもの、拙くとも -intropat2-
+ASNG_TwoHandsStonesAndTower - Two hands, Stones, And the tower - 築くもの、拙くとも
+
+es
+ASNG_Focus - Focus
+ASNG_HarvestMoon - Harvest Moon
+ASNG_HelloImHome_Introless - Hello, I'm home -introless-
+ASNG_HelloImHome - Hello, I'm home
+ASNG_IHopeToBeInTenderrain - I hope to be in Tenderrain
+ASNG_IUnderstandHowYouFeel - I'll understand how you feel
+ASNG_ImGuest - I'm a Guest
+ASNG_InstantVer2 - Instant Ver2
+ASNG_Instant - Instant
+ASNG_Jest - Jest
+ASNG_LikeBrokenJewelry - Like a Broken jewelry
+ASNG_LilybellWasPicked - Lilybell was picked
+ASNG_Lilywhite - Lilywhite
+ASNG_MilkyMilkyOcean - Milky, Milky Ocean
+ASNG_NamelessTeenagers - Nameless Teenagers
+ASNG_NoJusticeNoVice - No justice, No vice
+ASNG_NobodyHereIn？ - Nobody here in？
+ASNG_Qualm - Qualm
+ASNG_RoseNeedle - Rose Needle
+ASNG_Schemer - The schemer
+ASNG_WishOfWhitehorsePrince - Wish of A whitehorse prince
+ASNG_WhatYouGaveMe - あなたが私にくれたものは
+ASNG_SecretBase - ひみつきち
+ASNG_MayNobleFlowerRestInPeace - 気高き花よ安らかに
+ASNG_ExpiredDayBeforeLast - 賞味期限がおとといだった
+ASNG_Endlessly - 天道奈落果てしなく
+ASNG_WalkingAcrossWaterEdge - 波打ち際、横歩き
+ASNG_SecretRecipeForHomeCooking - 秘伝の味をご家庭で
+ASNG_NightRoadDrizzle - 夜道、霧雨
+ASNG_OwlEyes - 梟の瞳
+ASNG_AloneWorld - alone the world
+ASNG_BruntAndButt - Brunt and Butt
+ASNG_CherryBlossomDisease - さくらのやまい
+
+ji
+ASNG_StraycatWas - A straycat was...
+ASNG_CrescentMoon - Crescent Moon
+ASNG_Dinnertime - dinnertime
+ASNG_Gewgaw - Gewgaw
+ASNG_HypocrisyImprint - Hypocrisy Imprint
+ASNG_IDareToBeInExcitement - I dare to be in Excitement
+ASNG_Ownfault - Ownfault
+ASNG_ShallowSleep - Shallow Sleep
+ASNG_Wry - Wry
+ASNG_Ripples - さざなみ
+ASNG_RupturedAndDividedIdeology - 決裂分断イデオロギー
+ASNG_OnOneOwnAccount - 指折り数えて
+ASNG_RockSolidSmile - 磐石薄ら笑い
+ASNG_FierceFierceBattleCry - 猛る猛る勝鬨の声
+
+sd
+ASNG_StraycatBitesMe_Introless - A straycat bites me -introless-
+ASNG_StraycatBitesMeSptuned - A straycat bites me -sptuned-
+ASNG_StraycatBitesMe - A straycat bites me
+ASNG_AssumeAnAirOfWisdom_Introless - Assume An air of Wisdom -introless-
+ASNG_AssumeAnAirOfWisdom - Assume An air of Wisdom
+ASNG_BloodyFingersMuddyHands_Introless - Bloody fingers, Muddy hands -introless-
+ASNG_BloodyFingersMuddyHandsSptuned - Bloody fingers, Muddy hands -sptuned-
+ASNG_BloodyFingersMuddyHands - Bloody fingers, Muddy hands
+ASNG_BooksMyDarling_Introless1 - Books My Darling -introless1-
+ASNG_BooksMyDarling_Introless2 - Books My Darling -introless2-
+ASNG_BooksMyDarling - Books My Darling
+ASNG_BOSSAMBA - BOSSAMBA
+ASNG_Cherries - Cherries
+ASNG_CougarDeathparadeIntrokess - Cougar Deathparade -introkess-
+ASNG_CougarDeathparade - Cougar Deathparade
+ASNG_EnjoyTravelOfCrimes - Enjoy The travel of Crimes
+ASNG_GratefulInterceptor_Introless - Grateful Interceptor -introless-
+ASNG_GratefulInterceptor - Grateful Interceptor
+ASNG_IDareToBeInCruelheart_Introless - I dare to be in Cruelheart -introless-
+ASNG_IDareToBeInCruelheart - I dare to be in Cruelheart
+ASNG_InSuppliantAttitude_Introless - in a suppliant attitude -introless-
+ASNG_InSuppliantAttitude - in a suppliant attitude
+ASNG_IronyIronyIdentity_Introless - Irony Irony Identity -introless-
+ASNG_IronyIronyIdentity - Irony Irony Identity
+ASNG_LetMeAloneLightMeLittle_Introless - Let me alone, Light me a little -introless-
+ASNG_LetMeAloneLightMeLittle - Let me alone, Light me a little
+ASNG_LivingTestament_Introless - Living Testament -introless-
+ASNG_LivingTestamentVer2_Introless - Living Testament Ver2 -introless-
+ASNG_LivingTestamentVer2 - Living Testament Ver2
+ASNG_LivingTestament - Living Testament
+ASNG_LowbrowLayman_Introless - Lowbrow Layman -introless-
+ASNG_LowbrowLaymanMoreGuilty_Introless - Lowbrow Layman more Guilty -introless-
+ASNG_LowbrowLaymanMoreGuilty - Lowbrow Layman more Guilty
+ASNG_LowbrowLayman - Lowbrow Layman
+ASNG_MyWickedDaughter_Introless - My Wicked Daughter -introless-
+ASNG_MyWickedDaughter - My Wicked Daughter
+ASNG_NeverCatchAtFallingKnife_Introless - Never catch at a falling knife -introless-
+ASNG_NeverCatchAtFallingKnife - Never catch at a falling knife
+ASNG_NihilisticSilver - Nihilistic Silver
+ASNG_PrinceCallingPrincessCrying_Introless - Prince Calling, Princess Crying -introless-
+ASNG_PrinceCallingPrincessCrying - Prince Calling, Princess Crying
+ASNG_QueenDynamism - Queen's Dynamism
+ASNG_Ridley_Introless - Ridley -introless-
+ASNG_Ridley - Ridley
+ASNG_RippleOnMirror_Introless - Ripple on The mirror -introless-
+ASNG_RippleOnMirror - Ripple on The mirror
+ASNG_SlashMeIfYouCan_Introless - Slash me, If you can -introless-
+ASNG_SlashMeIfYouCan - Slash me, If you can
+ASNG_SorrySorryBluesky_Introless - Sorry, Sorry, Bluesky -introless-
+ASNG_SorrySorryBluesky - Sorry, Sorry, Bluesky
+ASNG_SpoiltLady_Introless - Spoilt Lady -introless-
+ASNG_SpoiltLady - Spoilt Lady
+ASNG_StainedFaithToFaith_Introless - Stained faith to faith -introless-
+ASNG_StainedFaithToFaith - Stained faith to faith
+ASNG_CuriosityTramplesEvenItDown_Introless - The curiosity tramples even it down -introless-
+ASNG_CuriosityTramplesEvenItDown - The curiosity tramples even it down
+ASNG_Vendett-_Introless- - Vendetta -introless-
+ASNG_Vendetta - Vendetta
+ASNG_WhitebressLikeStingSting_Introless - Whitebress Like Sting Sting -introless-
+ASNG_WhitebressLikeStingSting - Whitebress Like Sting Sting
+ASNG_WildPassion_Introless - Wild Passion -introless-
+ASNG_WildPassionSptuned - Wild Passion -sptuned-
+ASNG_WildPassion - Wild Passion
+ASNG_CompulsiveAbutment - 強迫性アバンチュール
+ASNG_YellowishBrownHairBlizzard_Introless - 錦鶯花吹雪 -introless-
+ASNG_YellowishBrownHairBlizzard - 錦鶯花吹雪
+ASNG_BreakingAwayFromBlackRelief_Introless - 黒い安堵からの脱却 -introless-
+ASNG_BreakingAwayFromBlackRelief - 黒い安堵からの脱却
+ASNG_Jealousy,DelusionAndPossessiveness - 嫉妬妄執独占欲
+ASNG_OScorchedEarth,EmbraceYourself_Introless - 焦土よ我を抱け -introless-
+ASNG_OScorchedEarth,EmbraceYourself - 焦土よ我を抱け
+ASNG_ForWhomBellTolls_Introless - 誰が為に鐘は鳴る -introless-
+ASNG_ForWhomBellTolls - 誰が為に鐘は鳴る
+ASNG_LikeWorm,You_Introless - 虫けらのような、あなた -introless-
+ASNG_LikeWorm,You - 虫けらのような、あなた
+ASNG_HisOwnNameIsWailing - 彼の者の名は、慟哭
+ASNG_CoupleOfSoldiers,CoupleOfStories_Introless - 兵二人、かく語りき -introless-
+ASNG_CoupleOfSoldiers,CoupleOfStories - 兵二人、かく語りき
+ASNG_ClosedLoopThoughtControl_Introless - 閉塞排他思想統制 -introless-
+ASNG_ClosedLoopThoughtControl - 閉塞排他思想統制
+ASNG_ConspiracyConflictOfInterest_Introless - 謀議陥穽明日は我が身か -introless-
+ASNG_ConspiracyConflictOfInterest - 謀議陥穽明日は我が身か
+ASNG_OutlawsComeQuietly_Introless - 無法者は静かに訪れる -introless-
+ASNG_OutlawsComeQuietly - 無法者は静かに訪れる
+ASNG_Friend_eyeIsKnothole_Introless - 友よその眼は節穴か -introless-
+ASNG_Friend_eyeIsKnothole - 友よその眼は節穴か
+ASNG_ToadWithPretendExistence - 有体さながら茹で蛙
+ASNG_ServileCatastrophe_Introless - 隷属カタストロフ -introless-
+ASNG_SlaveCatastropheSptuned - 隷属カタストロフ -sptuned-
+ASNG_ServileCatastrophe - 隷属カタストロフ
+ASNG_DoLizardsShedTearsOfSand_Introless - 蜥蜴は砂の涙を流すか -introless-
+ASNG_DoLizardsShedTearsOfSand - 蜥蜴は砂の涙を流すか
+ASNG_GrandstanderI_Intropat2 - A grandstander - その身に背負うものあまりに重く -iintropat2-
+ASNG_Grandstander - A grandstander - その身に背負うものあまりに重く
+ASNG_SteppingToDestroyWorld_Intropat2 - A stepping to destroy the world - 背に光を、地上に影を -intropat2-
+ASNG_SteppingToDestroyWorld - A stepping to destroy the world - 背に光を、地上に影を
+ASNG_BalaenicepsRex_Intropat2 - Balaeniceps rex - 彫像の王と湖畔の玉座 -intropat2-
+ASNG_BalaenicepsRex - Balaeniceps rex - 彫像の王と湖畔の玉座
+ASNG_BlackdotsOnRedcarpets_Intropat2 - Blackdots on Redcarpets - 黒点と絨毯 -intropat2-
+ASNG_BlackdotsOnRedcarpets - Blackdots on Redcarpets - 黒点と絨毯
+ASNG_DearYou_Intropat2 - Dear You - 捧ぐ、死の仮面 -intropat2-
+ASNG_DearYou - Dear You - 捧ぐ、死の仮面
+ASNG_DuhamelFormul - Duhamel's formula - 天使デュアメルの道標
+ASNG_HeavyArmor_Intropat2 - Heavy Armor - 重金属の歩み -intropat2-
+ASNG_HeavyArmor - Heavy Armor - 重金属の歩み
+ASNG_IDareToBeIn_Intropat2 - I dare to be in - 冷血の海へ -intropat2-
+ASNG_IDareToBeIn - I dare to be in - 冷血の海へ
+ASNG_ImitationFlower_Intropat2 - Imitation Flower - 不朽の花の願い -intropat2-
+ASNG_ImitationFlower - Imitation Flower - 不朽の花の願い
+ASNG_LikeLapisLazuli - Like a Lapis lazuli - 煌くは、瑠璃のように
+ASNG_MajesticSilver - Majestic Silver - 銀の華、とめどなく
+ASNG_RavenousPigeon_Intropat2 - Ravenous Pigeon - 黒き鳩の教唆 -intropat2-
+ASNG_RavenousPigeon - Ravenous Pigeon - 黒き鳩の教唆
+ASNG_SplitGirl_Intropat2 - Split Girl - 無限の空を見上げるために -intropat2-
+ASNG_SplitGirl - Split Girl - 無限の空を見上げるために
+ASNG_YourEpitaph_Intropat2 - Your Epitaph - 惰眠の王 -intropat2-
+ASNG_YourEpitaph - Your Epitaph - 惰眠の王
+
+td
+ASNG_CookieBiscuit - Cookie Biscuit
+ASNG_DeliciousStrawberry - Delicious Strawberry
+ASNG_Eastload - Eastload
+ASNG_ForTimeBeing - for the time being
+ASNG_HasteMakesWaste - Haste makes Waste
+ASNG_PumpkinSoup - Pumpkin Soup
+ASNG_Shishi-Odoshi - Shishi-Odoshi
+ASNG_SnoozeOnUnderTree - Snooze on Under the tree
+ASNG_DuckKing - アヒルの王様
+ASNG_DodgerWaltz - ペテン師のワルツ
+ASNG_RiceEarsAndHoeAndGrassFlute - 稲穂と鍬と草笛と
+ASNG_TemptationOfSevenColors - 七色の誘惑
+ASNG_SkinnyFox - 痩せ狐
+ASNG_OblateOfSunshine - 陽光のオブラート
+ASNG_GoingOutFromWindow - Going out from a window - わらわのお忍び紀行
